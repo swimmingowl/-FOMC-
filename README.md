@@ -8,4 +8,4 @@
 
 Reference
 
-[美联储官网](https://www.federalreserve.gov/):
+[美联储官网](https://www.federalreserve.gov/)
