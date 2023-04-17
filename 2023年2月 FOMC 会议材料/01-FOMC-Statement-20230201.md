@@ -1,5 +1,5 @@
 
-[简体中文](02-FOMC声明20230201.md) | English
+[简体中文](01-FOMC声明20230201.md) | English
 
 
 For release at 2:00 p.m. EST February 1, 2023 
