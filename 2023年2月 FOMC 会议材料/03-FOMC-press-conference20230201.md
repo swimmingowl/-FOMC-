@@ -1,4 +1,4 @@
-简体中文 | [English](03-FOMC-答记者问-20230201.md)
+[简体中文](03-FOMC-答记者问-20230201.md) | English
 
 February 1, 2023
 
