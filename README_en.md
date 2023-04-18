@@ -1,4 +1,4 @@
-简体中文｜[English]（README.md）
+简体中文｜[English](README.md)
 
 ## **Materials from the Federal Reserve FOMC meetings and monetary policy**
 
