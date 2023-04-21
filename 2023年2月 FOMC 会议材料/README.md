@@ -11,7 +11,7 @@
 
 **联邦基金利率上升0.25%至4.75%**
 
-![联邦基金利率 Federal Fund Effective Rate](./example.jpg)
+![联邦基金利率 Federal Fund Effective Rate](./example.png)
 
 
 
